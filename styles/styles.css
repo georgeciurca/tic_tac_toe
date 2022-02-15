@@ -2,11 +2,12 @@ body {
   margin: 0;
   font-family: "roboto", sans-serif;
   color: rgb(44, 41, 44);
-  background-color: rgb(217, 246, 250);
+  background-color: rgb(203, 233, 250);
 }
 
 #main-header {
-  background-color: rgb(5, 13, 116);
+/*   background-color: rgb(5, 13, 116); */
+  background-color: rgb(25, 113, 247);
   color: white;
   padding: 2rem 5%;
   text-align: center;
@@ -16,6 +17,7 @@ body {
   font: inherit;
   padding: 0.5rem 1.5rem;
   background-color: rgb(5, 13, 116);
+  background-color: rgb(25, 113, 247);
   border: 1px solid rgb(5, 13, 116);
   color: white;
   border-radius: 4px;
@@ -29,7 +31,7 @@ body {
 }
 
 .btn:hover {
-  background-color: rgb(25, 113, 247);
+  background-color: rgb(5, 13, 116);
   border-color: rgb(42, 4, 104);
 }
 
